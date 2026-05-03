@@ -1,4 +1,7 @@
 # 🚦 Smart Traffic Prediction & Optimization System
+The code I am using is predicting traffic for the Interstate 94 (I-94) Westbound corridor in the Minneapolis-St. Paul (Twin Cities) metropolitan area in Minnesota, USA.  
+
+Specifically, the dataset used in code (Metro_Interstate_Traffic_Volume.csv)[from Kaggle] contains hourly traffic volume for I-94 at a specific station located roughly midway between Minneapolis and St. Paul
 
 > Real-world smart city ML project — LSTM + Transformer for congestion forecasting, signal timing optimization, and route suggestion with an interactive Gradio dashboard.
 
